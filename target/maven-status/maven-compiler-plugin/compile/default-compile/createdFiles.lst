@@ -1,0 +1,10 @@
+com\jsz\dao\UserMapper.class
+com\jsz\config\ServletContain.class
+com\jsz\service\UserService.class
+com\jsz\service\impl\UserImpl.class
+com\jsz\config\MybatisConfig.class
+com\jsz\controller\UserController.class
+com\jsz\config\JDBCConfig.class
+com\jsz\config\SpringConfig.class
+com\jsz\config\SpringMVCConfig.class
+com\jsz\pojo\User.class
